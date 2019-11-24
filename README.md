@@ -1,5 +1,5 @@
 # Orchestrator  
-Rest client framework for sending async parallel & sequential http requests.
+Rest client framework for sending async parallel & sequential http api calls.
 
 Example-
 Suppose some rest api(/api3) requires input param whose values depends upon other 2 apis(/api1 & /api2)
